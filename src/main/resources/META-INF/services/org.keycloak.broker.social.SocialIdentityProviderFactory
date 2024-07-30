@@ -1,0 +1,2 @@
+com.simplystream.keycloak.discord.DiscordIdentityProviderFactory
+com.simplystream.keycloak.twitch.TwitchIdentityProviderFactory
