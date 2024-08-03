@@ -6,7 +6,7 @@ import org.keycloak.models.IdentityProviderModel;
 import org.keycloak.models.KeycloakSession;
 
 public class TwitchIdentityProviderFactory extends AbstractIdentityProviderFactory<TwitchIdentityProvider> implements SocialIdentityProviderFactory<TwitchIdentityProvider> {
-    public static final String PROVIDER_ID = "twitch_oidc";
+    public static final String PROVIDER_ID = "twitch";
 
     @Override
     public String getName() {

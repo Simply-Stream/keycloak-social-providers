@@ -6,11 +6,11 @@ import org.keycloak.models.IdentityProviderModel;
 import org.keycloak.models.KeycloakSession;
 
 public class DiscordIdentityProviderFactory extends AbstractIdentityProviderFactory<DiscordIdentityProvider> implements SocialIdentityProviderFactory<DiscordIdentityProvider> {
-    public static final String PROVIDER_ID = "discord_oidc";
+    public static final String PROVIDER_ID = "discord";
 
     @Override
     public String getName() {
-        return "Discord (OIDC)";
+        return "Discord";
     }
 
     @Override
