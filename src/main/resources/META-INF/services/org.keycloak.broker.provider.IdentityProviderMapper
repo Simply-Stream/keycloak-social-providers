@@ -1,0 +1,2 @@
+com.simplystream.keycloak.twitch.TwitchUserAttributeMapper
+com.simplystream.keycloak.discord.DiscordUserAttributeMapper
